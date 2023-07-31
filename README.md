@@ -1,5 +1,3 @@
-깃허브 주소 이전으로 코드는 아래 링크에서 확인할 수 있습니다.
-
 https://github.com/Chelsea9900/TeamStickerInteractionGame 
 
 # 🎯 찾아라! 스티커 FIND THE STICKERS
