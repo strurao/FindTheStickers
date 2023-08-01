@@ -1,7 +1,6 @@
 https://github.com/naverz/zepeto-script-sample/issues?q=is%3Aissue+is%3Aclosed
 
-![image](https://github.com/strurao/Find-the-Stickers/assets/126440235/b57463b1-313b-4a0b-bc3a-4540df0382b4)
-
+![image](https://github.com/strurao/Find-the-Stickers/assets/126440235/6728b55c-21d8-4dfa-b2b9-3eb660040b02)
 
 # 🎯 찾아라! 스티커 FIND THE STICKERS
 
