@@ -1,4 +1,4 @@
-https://github.com/Chelsea9900/TeamStickerInteractionGame 
+[https://github.com/Chelsea9900/TeamStickerInteractionGame ](https://github.com/naverz/zepeto-script-sample/issues?q=is%3Aissue+is%3Aclosed)
 
 # 🎯 찾아라! 스티커 FIND THE STICKERS
 
