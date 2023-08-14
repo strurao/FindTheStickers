@@ -1,33 +1,30 @@
-https://github.com/naverz/zepeto-script-sample/issues?q=is%3Aissue+is%3Aclosed
-
-![image](https://github.com/strurao/Find-the-Stickers/assets/126440235/6728b55c-21d8-4dfa-b2b9-3eb660040b02)
-
-# 🎯 찾아라! 스티커 FIND THE STICKERS
-
 ![KakaoTalk_Photo_2022-01-05-12-13-11 001](https://user-images.githubusercontent.com/93331248/148155082-7c689583-29e2-4d10-898f-106b38a0f15d.jpeg)
+# 찾아라! 스티커 FIND THE STICKERS
 
 
 
-2021 NAVERZ ZEPETO 인앱 게임 개발 비공개 공모전 
 
 
-게임 이름 : 찾아라! 스티커 (Find The Stickers)
-
-게임 줄거리 : 교실 안에서 몸이 작아져 버렸다! 책상 위에 꼭꼭 숨겨진 스티커를 찾아서 모으면 원래대로 되돌아갈지도 몰라! <4:4 팀전> 스티커를 우리팀 골대에 넣어 점수가 높으면 우승! 뺏고 뺏기는 스티커 쟁탈전! 별난 스티커는 가져오고 화난 스티커는 못들어오게 막자!
-
-게임 개발 팀 : 뉴토피아 NTOOPIA (프로그래밍 2명, 기획 1명, 디자인 4명)
+- 대회명 : 2021 NAVER Z ZEPETO 인앱 게임 개발 비공개 공모전 
 
 
-# 🎯 개발 환경 및 개발 언어
+- 게임 이름 : 찾아라! 스티커 (Find The Stickers)
 
-Unity 2020.3.9f1
+- 게임 줄거리 : 교실 안에서 몸이 작아져 버렸다! 책상 위에 꼭꼭 숨겨진 스티커를 찾아서 모으면 원래대로 되돌아갈지도 몰라! <4:4 팀전> 스티커를 우리팀 골대에 넣어 점수가 높으면 우승! 뺏고 뺏기는 스티커 쟁탈전! 별난 스티커는 가져오고 화난 스티커는 못들어오게 막자!
 
-ZEPETO API
-
-TypeScript
+- 게임 개발 팀 : 뉴토피아 NTOOPIA (프로그래밍 2명, 기획 1명, 디자인 4명)
 
 
-# 🎯 게임 기능 
+# 개발 환경 및 개발 언어
+
+- ``Unity 2020.3.9f1``
+
+- ``ZEPETO API``
+
+- ``TypeScript``
+
+
+# 게임 기능 
 
 1. 4:4 팀전, 8명이 모이면 게임이 시작되고, 게임이 시작되면 랜덤으로 팀이 정해진다. 랜덤으로 정해진 팀(파랑팀 또는 빨강팀)에 따라 팀의 발판이 붙는다.
 
@@ -54,7 +51,7 @@ TypeScript
 12. 각종 이펙트, 오디오
 
 
-# 🎯 스크린샷
+# 스크린샷
 ![KakaoTalk_Photo_2022-01-05-12-13-12 002](https://user-images.githubusercontent.com/93331248/148155095-cb79993e-7740-4464-94a0-c7f9e339b87d.jpeg)
 
 ![KakaoTalk_Photo_2022-01-05-12-13-12 003](https://user-images.githubusercontent.com/93331248/148155110-0744b133-b25e-4cd6-87be-93bc3d97f619.jpeg)
